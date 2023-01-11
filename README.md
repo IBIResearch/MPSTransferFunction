@@ -1,7 +1,7 @@
 # MPSTransferFunction Example
 
 
-This folder contains example code for applying a MPS transfer function to measured data. 
+This folder contains example code for applying an MPS transfer function to measured data. 
 The method includes the representation of MPS signal responses in time- and frequency domain, as well as the MPI point-spread function and the hysteresis curve.
 
 The method is described in the associated publication
