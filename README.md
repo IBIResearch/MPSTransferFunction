@@ -18,7 +18,7 @@ After installation the example code can be executed by running `julia` and enter
 ```julia
 include("example.jl")
 ```
-for the initial method.
+This will first download all data and then generate the MPS transfer function. After the MPS transfer function is applied, the script will open a plotting window and show the different signal processing steps.
 
 
 ## Open MPI Data
