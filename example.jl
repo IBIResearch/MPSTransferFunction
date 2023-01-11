@@ -23,8 +23,6 @@ using Plots, Plots.PlotMeasures
 using LazyArtifacts
 using Scratch
 
-pyplot() # use PyPlot backend for plotting
-
 squeeze(A) = dropdims(A, dims=tuple(findall(([size(A)...].==1))...))
 
 
