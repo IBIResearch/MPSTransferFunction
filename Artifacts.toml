@@ -1,0 +1,7 @@
+[MPSTransferFunction]
+git-tree-sha1 = "b37d4417f2f965fef143ee22920049d89e26b4d1"
+lazy = true
+
+    [[MPSTransferFunction.download]]
+    sha256 = "0919bc079958e977122bcd6796d492d67ad288644879a38e090af294f5f53ec2"
+    url = "https://zenodo.org/record/7457743/files/MPSTransferFunction.tar.gz"
