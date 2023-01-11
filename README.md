@@ -11,7 +11,7 @@ systems. IEEE Transactions on Instrumentation and Measurement, 2022. doi: [10.11
 
 ## Installation
 
-In order to use this code one first has to download [Julia](https://julialang.org/) (version 1.8 or later), clone this repository and navigate to the folder in the command line. The example scripts automatically activate the environment and install all necessary packages.
+In order to use this code one first has to download [Julia](https://julialang.org/) (version 1.8 or later), clone this repository and navigate to the folder in the command line. The example script automatically activate the environment and install all necessary packages.
 
 ## Execution
 After installation the example code can be executed by running `julia` and entering
